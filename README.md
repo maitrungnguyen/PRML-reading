@@ -12,6 +12,6 @@ The notebooks are organized to follow the structure of the textbook, covering bo
 
 - Implementation in Python. 
 
- Provide visualizations or simulations.
+- Provide visualizations or simulations.
 
 The goal of this project is to build a strong foundation in probabilistic modeling, statistical inference, and machine learning techniques through active reading, coding, and experimentation.
