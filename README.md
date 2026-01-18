@@ -1,6 +1,6 @@
 About This Repository
 
-This repository documents a reading and learning project conducted by Mai Trung Nguyen (University of Science, VNUHCM), under the guidance of Dau Hai Dang (National University of Singapore).
+This repository documents a reading and learning project conducted by Mai Trung Nguyen (University of Science, VNUHCM), under the guidance of Prof. Dau Hai Dang (Nanyang Technological University).
 
 The project serves as a structured record of my study of Pattern Recognition and Machine Learning by Christopher M. Bishop. It includes detailed notes, derivations, explanations, and Python-based implementations of key concepts from the book.
 
